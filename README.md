@@ -1,7 +1,7 @@
 # 🤖 Object Avoidance Robot
 
 An **autonomous robot car** built using Arduino, ultrasonic sensors, and a motor driver module to detect and avoid obstacles in its path. This project demonstrates the use of **sensors, actuators, and control logic** in robotics.
-
+![3D-model](object_avdrobot.png)
 ---
 
 ## 📌 Features
