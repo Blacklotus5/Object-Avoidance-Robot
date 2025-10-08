@@ -81,8 +81,7 @@ Key parts of the Arduino sketch (`obs_avd.ino`):
 - Add **IR sensors** for edge detection.  
 - Use **PID control** for smoother turns.  
 - Upgrade power system for longer runtime.  
-- Add **Bluetooth/WiFi control** for manual override.  
-- Use **Li-ion 18650 cells** for better battery life.  
+- Add **Bluetooth/WiFi control** for manual control.
 
 ---
 
