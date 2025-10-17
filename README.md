@@ -62,7 +62,7 @@ The complete wiring diagram is shown below:
 - Place robot on flat surface.  
 
 ### 4️⃣ Run the Robot
-- Switch on the power supply (2 × 3.7V LiPo in series).  
+- Switch on the power supply (2 × 3.7V Li-ion in series).  
 - Robot will now move forward and avoid obstacles autonomously.  
 
 ---
@@ -80,7 +80,7 @@ Key parts of the Arduino sketch (`obs_avd.ino`):
 ## 🧩 Possible Improvements
 - Add **IR sensors** for edge detection.  
 - Use **PID control** for smoother turns.  
-- Upgrade power system for longer runtime.  
+- Upgrade power system for longer runtime
 - Add **Bluetooth/WiFi control** for manual control.
 
 ---
